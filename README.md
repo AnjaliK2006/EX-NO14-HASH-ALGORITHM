@@ -67,6 +67,7 @@ return 0;
 
 ## Output:
 
+![alt text](image.png)
 
 ## Result:
 The program is executed successfully.
